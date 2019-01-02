@@ -3,10 +3,10 @@
 -  初始化开发一个vue的组件
 - 使用
 
-#### 克隆仓库
+#### 下载仓库
 
 ```
-git clone https://github.com/lydxwj/vue-cmp.git
+https://lydxwj/vue-cmp/archive/master.zip
 ```
 
 #### 安装依赖
