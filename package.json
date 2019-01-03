@@ -1,7 +1,7 @@
 {
   "name": "vue_cmp",
   "description": "初始化开发一个vue的组件",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "lyd",
   "license": "MIT",
   "main": "lib/index.js",
@@ -37,6 +37,9 @@
     "babel-preset-stage-0": "^6.24.1",
     "clean-webpack-plugin": "^0.1.17",
     "css-loader": "^0.28.7",
+    "eslint": "^5.11.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
     "extract-text-webpack-plugin": "^3.0.2",
     "file-loader": "^1.1.5",
     "html-webpack-plugin": "^2.30.1",

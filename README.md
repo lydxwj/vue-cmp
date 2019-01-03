@@ -1,4 +1,4 @@
-# react-cmp
+# vue_cmp
 
 -  初始化开发一个vue的组件
 - 使用
