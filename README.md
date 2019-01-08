@@ -6,7 +6,7 @@
 #### 下载仓库
 
 ```
-https://lydxwj/vue-cmp/archive/master.zip
+https://github.com/lydxwj/vue-cmp/archive/master.zip
 ```
 
 #### 安装依赖
